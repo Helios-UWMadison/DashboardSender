@@ -1,0 +1,14 @@
+{
+  "name": "heliosemail",
+  "version": "1.0.0",
+  "description": "Updates energy snapshot on S3, and sends it via SES",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Nikhil Kumar",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.382.0"
+  }
+}
